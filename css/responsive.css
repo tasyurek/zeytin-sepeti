@@ -213,6 +213,15 @@
     font-size: 2rem;
   }
 
+  /* Links */
+  #link-container {
+    padding: 5%;
+  }
+
+  .links {
+    padding: 5%;
+  }
+
   /* Products */
 
   /* Contact */

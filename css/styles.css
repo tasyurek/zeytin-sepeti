@@ -161,11 +161,10 @@ button:focus {
 .navbar-light .navbar-nav .nav-link {
   font-family: "Open Sans", sans-serif;
   color: var(--green-darker-color);
-  padding: 0px 2rem;
+  padding: 1rem 2rem;
 }
 .nav-item a {
   font-weight: 600;
-  padding: 0 13px;
   color: black;
 }
 
@@ -245,7 +244,6 @@ button:focus {
 
 #link-container {
   background-color: #fff;
-  padding: 5%;
 }
 #link-container h2 {
 }
